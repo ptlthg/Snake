@@ -1,0 +1,12 @@
+{
+    "action": {
+       "default_icon": "icon.png",
+       "default_popup": "popup.html"
+    },
+    "description": "A new take on Snake, now an endless runner!",
+    "manifest_version": 3,
+    "name": "Endless Snake",
+    "version": "1.0.0",
+    "offline_enabled": true
+ }
+ 
